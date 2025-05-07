@@ -1,0 +1,1 @@
+"Store multiple values in a single variable"
